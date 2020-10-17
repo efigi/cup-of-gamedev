@@ -2,9 +2,9 @@
 layout: post
 title:  "Welcome! Just Starting Your Gamedev Journey?"
 author: efigi
-categories: [ Jekyll, tutorial ]
+categories: [ tutorial ]
 image: assets/images/starting_gamedev_v1.jpg
-tags: [sticky]
+tags: [sticky, featured]
 ---
 
 Hello there! If you're just starting your journey, go here! I've compiled some great tips to get you started on your journey!
