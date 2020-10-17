@@ -2,10 +2,11 @@
 layout: post
 title:  "10 Reasons Why You Should Use Godot For Your Next Game"
 author: efigi
-categories: [Gamedev]
+date: 2020-10-16
+categories: "Gamedev"
 image: assets/images/2020-10-17_unity_is_better_than_godot_v1.png
 
-tags: [gamedev]
+tags: "gamedev"
 ---
 
 I finally did it. I went ahead and installed Unity to try it out.
