@@ -7,7 +7,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: ''
 #disqus: 'demowebsite'
 email: 'efigi@cupofgamedev.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://cupofgamedev.us2.list-manage.com/subscribe/post?u=a502e4ca3eb62f2279c5567a0&amp;id=8489c9a232'
 
 include: ["_pages"]
 permalink: /:title/
@@ -22,7 +22,7 @@ plugins:
 authors:
     efigi:
       name:           Efigi
-      site:           www.cupofgamedev.com
+      site:           https://www.cupofgamedev.com
       avatar:         assets/images/efigi400x400.png
       bio:            "Hi, I'm Efigi, an indie gamedev. I write about my experiences and thoughts in game development!"
 #      email:          wowthemesnet@gmail.com
