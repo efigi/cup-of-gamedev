@@ -38,7 +38,7 @@ I also have to say that I love the lighting in this engine! It made my light mec
 
 We managed to finish in time, and we added a lot of stuff to the game. That's all thanks to Godot's fast and intuitive way of handling things.
 
-## HTMl5 Build Fail
+## HTML5 Build Fail
 
 The only part that made me a bit sad was the HTML5 build of the game. It was smooth on Windows, but really laggy on HTML5. I've seen multiple posts regarding SCons for removing unneeded features in the final build to improve performance, but since I was in a game jam I didn't want to spend extra hours on this when I could be improving game features. I've read that Godot will be moving to Vulkan soon though, so I'm not worried.
 

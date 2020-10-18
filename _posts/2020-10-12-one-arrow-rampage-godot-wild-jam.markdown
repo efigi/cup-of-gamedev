@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lessons Learned From Making A Platformer Game"
+title:  "Lessons Learned From Making A Platformer Game In A Week"
 author: efigi
 categories: [Postmortem]
 image: assets/images/one-arrow-rampage-v1.png

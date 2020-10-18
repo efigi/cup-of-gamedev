@@ -7,7 +7,7 @@ image: assets/images/starting_gamedev_v1.jpg
 tags: [sticky, featured]
 ---
 
-Hello there! If you're just starting your journey, go here! I've compiled some great tips to get you started on your journey!
+Hello there! If you're just starting your journey, go here! I've compiled some great tips to get you started!
 
 Bucharest’s history alternated periods of development and decline from the early settlements in antiquity until its consolidation as the national capital of Romania late in the 19th century. First mentioned as the “Citadel of București” in 1459, it became the residence of the famous Wallachian prince Vlad III the Impaler.
 
