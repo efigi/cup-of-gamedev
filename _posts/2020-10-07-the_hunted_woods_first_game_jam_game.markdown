@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Lessons Learned From My First Game Jam Game"
+title:  "Lessons Learned From My First Game Jam Game With A Team"
 author: efigi
-categories: [Postmortem]
+categories: ["Game Jam"]
 image: assets/images/the_hunted_woods_v1.jpg
 
 tags: games showoff gamejam postmortem horror 2D Godot

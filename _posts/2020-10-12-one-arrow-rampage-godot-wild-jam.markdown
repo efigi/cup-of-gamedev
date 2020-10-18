@@ -2,7 +2,7 @@
 layout: post
 title:  "Lessons Learned From Making A Platformer Game In A Week"
 author: efigi
-categories: [Postmortem]
+categories: ["Game Jam"]
 image: assets/images/one-arrow-rampage-v1.png
 
 tags: games showoff gamejam postmortem platfomer grapple 2D Godot

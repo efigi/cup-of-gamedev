@@ -2,7 +2,7 @@
 layout: post
 title:  "Making A Worms Clone in Three Days"
 author: efigi
-categories: Postmortem
+categories: ["Game Jam"]
 image: assets/images/worms_clone_bombs_equals_magic_v1.png
 
 tags: gamedev worms postmortem clone game jam 2D Godot
