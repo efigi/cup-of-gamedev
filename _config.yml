@@ -5,6 +5,7 @@ description: 'Take your gamedev info a cup at a time!'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
+url: "https://www.cupofgamedev.com"
 #disqus: 'demowebsite'
 email: 'efigi@cupofgamedev.com'
 mailchimp-list: 'https://cupofgamedev.us2.list-manage.com/subscribe/post?u=a502e4ca3eb62f2279c5567a0&amp;id=8489c9a232'
@@ -14,6 +15,7 @@ permalink: /:title/
 
 # Plugins
 plugins:
+  - jekyll-sitemap
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
