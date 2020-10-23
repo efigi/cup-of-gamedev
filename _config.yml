@@ -24,7 +24,7 @@ plugins:
 authors:
     efigi:
       name:           Efigi
-      site:           https://www.cupofgamedev.com
+      site:           https://efigi.github.io/
       avatar:         assets/images/efigi400x400.png
       bio:            "Hi, I'm Efigi, an indie gamedev. I write about my experiences and thoughts in game development!"
 #      email:          wowthemesnet@gmail.com
