@@ -23,12 +23,12 @@ plugins:
 
 authors:
     efigi:
-      name:           Efigi
-      site:           https://efigi.github.io/
+      name:           Remtaine
+      site:           remtaine.com
       avatar:         assets/images/efigi400x400.png
-      bio:            "Hi, I'm Efigi, an indie gamedev. I write about my experiences and thoughts in game development!"
+      bio:            "Hi, I'm Remtaine, an indie gamedev. I write about my experiences and thoughts in game development!"
 #      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/iamefigi
+      twitter:        https://twitter.com/remtaine
 
     # jane:
       # name:           Jane
