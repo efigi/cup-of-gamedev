@@ -7,7 +7,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: ''
 url: "https://www.cupofgamedev.com"
 #disqus: 'demowebsite'
-email: 'efigi@cupofgamedev.com'
+email: 'remtaine@cupofgamedev.com'
 mailchimp-list: 'https://cupofgamedev.us2.list-manage.com/subscribe/post?u=a502e4ca3eb62f2279c5567a0&amp;id=8489c9a232'
 
 include: ["_pages"]
@@ -22,7 +22,7 @@ plugins:
   - jekyll-seo-tag
 
 authors:
-    efigi:
+    remtaine:
       name:           Remtaine
       site:           remtaine.com
       avatar:         assets/images/efigi400x400.png
