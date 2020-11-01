@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Unity is Still Better Than Godot for A Solo Game Developer"
-author: efigi
+author: remtaine
 categories: [Jekyll, Gamedev]
 image: assets/images/2020-10-17_unity_is_better_than_godot_v1.png
 

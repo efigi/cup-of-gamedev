@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Making A Worms Clone in Three Days"
-author: efigi
+author: remtaine
 categories: ["Game Jam"]
 image: assets/images/worms_clone_bombs_equals_magic_v1.png
 
@@ -42,6 +42,6 @@ As for the builds, one thing that made me sad was that the destructible tiles di
 
 In the future, I plan to add lobby-based multiplayer, more weapons, larger and more varied maps, and probably some more juice. I’d also see about exporting this to mobile. Please tell me your thoughts on what I have so far as well as these plans :)
 
-You can check out the game at the <a href="https://efigi.itch.io/bombs-equals-magic">Itch.io</a> website.
+You can check out the game at the <a href="https://remtaine.itch.io/bombs-equals-magic">Itch.io</a> website.
 
 PS. the title is “Bombs = Magic” since you’re going against magical mushrooms using only bombs, and you’re there to show them who’s boss!

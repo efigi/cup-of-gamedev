@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lessons Learned From My First Game Jam Game With A Team"
-author: efigi
+author: remtaine
 categories: ["Game Jam"]
 image: assets/images/the_hunted_woods_v1.jpg
 
@@ -44,4 +44,4 @@ The only part that made me a bit sad was the HTML5 build of the game. It was smo
 
 ## The Game Itself
 
-Here's my game if you want to try it. You can find it on the <a href="https://efigi.itch.io/the-hunted-woods">Itch.io website</a >.
+Here's my game if you want to try it. You can find it on the <a href="https://remtaine.itch.io/the-hunted-woods">Itch.io website</a >.
