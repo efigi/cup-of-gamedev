@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Making A Worms Clone in Three Days"
+description:  "Worms is a turn-based tactical artillary game loved by millions around the world. Let's see how to make one!"
 author: remtaine
 categories: ["Game Jam"]
 image: assets/images/worms_clone_bombs_equals_magic_v1.png
