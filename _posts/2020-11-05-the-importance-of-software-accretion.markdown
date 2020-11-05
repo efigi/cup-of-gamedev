@@ -4,7 +4,7 @@ title:  "The Importance of Software Accretion"
 description:  "Software Accretion is an important concept in Software development! You should apply it to your workflow!"
 author: remtaine
 categories: ["Programming Principles"]
-image: assets/images/pearl.png
+image: assets/images/pearl.jpg
 
 tags: programming principles createJS Javascript HTML5 software accretion
 ---
