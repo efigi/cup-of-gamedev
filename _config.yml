@@ -24,7 +24,7 @@ plugins:
 authors:
     remtaine:
       name:           Remtaine
-      site:           remtaine.com
+      site:           https://www.remtaine.com
       avatar:         assets/images/efigi400x400.png
       bio:            "Hi, I'm Remtaine, an indie gamedev. I write about my experiences and thoughts in game development!"
 #      email:          wowthemesnet@gmail.com
