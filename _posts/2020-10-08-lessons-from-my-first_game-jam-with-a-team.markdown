@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lessons Learned From My First Game Jam Game With A Team"
+title:  "Lessons Learned From My First Game Jam With A Team"
 description:  "Working with a team for the first time can be daunting! But with patience and some leadership you can get everyone to make a great game!"
 author: remtaine
 categories: ["Game Jam"]
