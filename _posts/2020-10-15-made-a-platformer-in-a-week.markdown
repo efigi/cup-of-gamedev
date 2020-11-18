@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lessons Learned From Making A Platformer Game In A Week"
+title:  "Lessons From Making A Platformer In A Week"
 description:  "A platformer isn't as simple as making a player and things to jump on! A lot of things are needed to make the game feel right!"
 author: remtaine
 categories: ["Game Jam"]
