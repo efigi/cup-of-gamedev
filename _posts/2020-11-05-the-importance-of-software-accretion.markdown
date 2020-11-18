@@ -6,7 +6,7 @@ author: remtaine
 categories: ["Programming Principles"]
 image: assets/images/pearl.jpg
 
-tags: programming principles createJS Javascript HTML5 software accretion
+tags: programming principles createJS Javascript HTML5 software accretion featured
 ---
 
 I got started on a project earlier. It seemed simple enough; I had the flow of the game already imagined so it was all a matter of just typing it down. I sat down and started coding, checking Google every now and then for the Javascript and CreateJS code needed (I was developing an HTML5 game) for the methods that I had forgotten the syntax of. After some time, I was done. I loaded the HTML page with the JavaScript file linked, and guess what I saw?

@@ -4,9 +4,9 @@ title:  "Why You Should Join A Game Jam"
 description:  "A game jam is one of the best gamedev experiences you can have! Here's why you should join one!"
 author: remtaine
 categories: ["Game Jam"]
-image: assets/images/pearl.jpg
+image: assets/images/gamejam.jpg
 
-tags: programming game jam event reasons software
+tags: programming game jam event reasons software featured
 ---
 
 Game jams are an interesting event. In it, a bunch of programmers, artists, musicians, designers, and more, all come together to make games. Everyone has a different set of skills and they meet up in a certain area, group up with people they've just met in the venue, and then devote an entire weekend to making a complete game.

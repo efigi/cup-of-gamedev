@@ -6,7 +6,7 @@ author: remtaine
 categories: [Jekyll, Gamedev]
 image: assets/images/2020-10-17_unity_is_better_than_godot_v1.png
 
-tags: [gamedev]
+tags: gamedev featured
 ---
 
 I finally did it. I went ahead and installed Unity to try it out.

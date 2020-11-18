@@ -6,7 +6,7 @@ author: remtaine
 categories: ["Game Jam"]
 image: assets/images/worms_clone_bombs_equals_magic_v1.png
 
-tags: gamedev worms postmortem clone game jam 2D Godot
+tags: gamedev worms postmortem clone game jam 2D Godot featured
 ---
 
 Hi guys! So I made a tactical artillery game like Worms/ Gunbound/ Arcanists. It was for a game jam that lasted 7 days but I joined late, so I just made this game in 3 days. It was still pretty fun though! I learned a lot from making this, so I want you to see how it was made as well.
