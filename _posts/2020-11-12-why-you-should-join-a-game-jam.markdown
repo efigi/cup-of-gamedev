@@ -21,7 +21,7 @@ One thing to note is that it's extremely good practice for game development. The
 
 Game jams are essentially no-pressure areas where people can try things out. Novices can dip their toes in the water and make a game for the first time, while more experienced participants cantest out things that they've wanted to do in a game. This could be something like a new genre, game mechanic, asset pipeline, or even game engine, can all be done in game jams. And if it doesn't work out? It's okay! The important thing is that you learned from the experience.
 
-## Goes Through The Entire Game Developement Process
+## Go Through The Entire Game Developement Process
 
 What's interesting in a game jam is that it's essentially the entire game making process in a capsule. ONce the theme is announced, the team will gather up and brainstorm ideas for a game. Ideas are thrown around, discussed, thrown away, expounded upon until people agree on an interesting idea. People then get started on making a prototype for the game, a quick and rough build that holds the game mechanics and essence.
 
@@ -37,7 +37,7 @@ To expound on the previous point, game jammers learn a lot of principles in maki
 
 What if someone thought their mediocre game mechanic was actually amazing and refused to kill their darling. Instead, they wanted to polish it, thinking it would bring out the greatness of their idea. Hate to break it to you, but you can't polish a turd. The game should've been fun even with placeholder images and souds. If the mechanic can't stand on its own, it's back to the drawing board. Polish increases the fun but it doesn't make it.
 
-## Working With A Team
+## Work With A Team
 
 As mentioned earlier, a game jam invites people in different roles in the game development industry. Programmers meet up with visual artists, musicians, level designers, SFX artists, producers, etc. The whole gamut can be found here, and hence is a great way to network and practice working with a team. Since each jam can have a completely different set of people (except if you brought your own team), you end up working with different personalities and temperaments.
 
@@ -51,7 +51,7 @@ Miziziziz, an indie game developer and Youtuber, has this idea when thinking of 
 
 Of course, you're free to use any idea in the end, even if it's relatively common. In the end, execution makes a huge difference.
 
-## You Get A Finished Game
+## Finish A Game
 
 Since most game jams don't have a prize or rankings, what does someone get from entering it? Aside from the experiences and memories, there's also the joy in having built your own game!  Most people have a problem with finishing games at the start of their creative pursuit. There's a tendency to only focus only the fun part and ignoring the polishing and UI, which leards to a slew of unfinished games in their wake. Finishing is a skill, and one of the ways to train that skill is through game jams. They provide an extrinsic deadline so people wouldn't extend their games indefinitely by adding whatever pops up in their head. When the game jam's time is up, ready or not, you have to submit! It's this slight push from the deadline that helps people learn to finish games.
 
@@ -59,8 +59,6 @@ Since most game jams don't have a prize or rankings, what does someone get from 
 
 Last but not the least, it's fun! Why else would you spend your free time crunching a game with strangers? The thrill of starting from scratch, building with your fellow game enthusiasts, going through the highs and lows of game development! All in 2-3 days! It all ends up with a finished game, several friends made, and an experience that you won't forget. If you took a physical game jam, you can go around and test other people's games, chat and share tips, and have a good time in a community that just enjoys creating games. What more can you ask for?
 
-## Go To A Gam Jam!
+## Join A Game Jam Now!
 
 All in all, doing a game jam is an experience you'll never forget. I'm sure if you ask a game jammer about his game, they can tell you what happened in each jam that it was made, as well as the game that they made. Creative pursuits like gamedev will definitely create some emotional moments. In an event like a game jam, where hundreds of people make games at the same time, it simply becomes magical.
-
-## Join A Game Jam Now!
