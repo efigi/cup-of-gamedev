@@ -3,7 +3,6 @@ layout: post
 title:  "10 Reasons Why You Should Use Godot For Your Next Game"
 description:  "Godot is one of the most-used 2D game engines now! Here are some reasons why you should use it!"
 author: remtaine
-date: 2020-10-16
 categories: "Engine"
 image: assets/images/godot_logo_v1.png
 tags: Godot Unity Game Engine
