@@ -9,13 +9,19 @@ image: assets/images/2020-10-17_unity_is_better_than_godot_v1.png
 tags: gamedev featured game engine
 ---
 
-I finally did it. I went ahead and installed Unity to try it out.
+I finally did it. I went ahead and installed Unity, raring to try it out. As someone who's tried several game engines before jumping into Unity, I wanted to compare the experience to what I've used before.
 
-Also, what made me pull the trigger was the fact that Unity (finally!) had Dark Mode in its free version! It's a small thing that adds a lot of value, so I always wondered why that feature was locked behind a paywall.
+What made me pull the trigger was the fact that Unity (finally!) had Dark Mode in its free version! It's a small thing that adds a lot of value, so I always wondered why that feature was locked behind a paywall.
+
+I've used several game engines and frameworks, including Game Maker Studio, Godot Engine, CreateJS, LibGDX, Haxe, and so on. I've created a game with each one of them, and so while I can't say I'm an expert in each of them, I have experience in all and can compare how a beginner would tackle them same problem in each game engine or framework.
 
 ## Unity vs Godot
 
-Usually when I hear posts about Unity vs Godot, it's about how a person moved from Unity to Godot since it suited their needs better.
+Usually when I hear posts about Unity vs Godot, it's about how a person moved from Unity to Godot since it suited their needs better. People like [Miziziziz](https://www.youtube.com/watch?v=U3TI2lleCYU) and [DevDuck](https://www.youtube.com/watch?v=vxRzLf4PdgY) have talked about why they switched to the Godot Engine, while [GDQuest](https://www.youtube.com/watch?v=kahPeM0scpM) and [Goodgis](https://www.youtube.com/watch?v=MV_TaVM8Huc) had a more pros-and-cons video about comparing the two. Because of videos like these, more discussion could be done regarding the pros and cons between the two.
+
+## Multiple Hats
+
+As I said, I'm going to compare Unity with Godot. For this particular article however, I want to focus less on the coding workflow and put a spotlight on everything else the game engines have in relation to game development. I'm sure that most solo devs know that programming is only one facet of gamedev, and that there are other parts like graphics, music, marketing, distribution, and so on that helps the solo game developer. That's what I will be tackling here. The actual programming will be talked about in another article. 
 
 ## 1 - It's An Industry Standard
 
@@ -49,7 +55,9 @@ The market share of Unity means more people use it, and so you have more people 
 
 ## 5 - The Asset Store is superb
 
-I would go ahead and say it: this reason alone should be enough for any solo game developer to make the switch. No man is an island, though a solo gamedev tries to be. I'm sure you've already tried to wear several hats that shoul've been filled by an entire team. You've been doing the programmming,
+I would go ahead and say it: this reason alone should be enough for any solo game developer to make the switch. No man is an island, though a solo gamedev tries to be. I'm sure you've already tried to wear several hats that should've been filled by an entire team. You've been doing the programmming, graphics, music, sfx, marketing, and more! With the asset store, some of the burden is lifted off your shoulders and you can focus on the things you're good at.
+
+XXX
 
 ## 6 - The Unity Distribution Portal
 
@@ -59,7 +67,7 @@ The reach allowed by the UDP cannot be understated for solo game developers, as 
 
 ## 7 - We're Waiting for Godot (4.0)
 
-Godot 4.0 is stated to release some time next year, with a lot of features that I'm looking forward to. Because of that, most of us seem perpetually waiting for Godot.
+Godot 4.0 is stated to release some time next year, with a lot of features that I'm looking forward to. Because of that, most of us seem perpetually waiting for Godot. The latest stable iteration of Godot is 3.3, with fixed FBX importing and better 2D batching, among others.
 
 There are constantly loads of updates being added to Godot 4.0, not only in 3D but also in the 2D space. The 2D part of Godot's game engine hasn't been updated in several years, but 4.0 will have several that could be considered real game changers.
 
