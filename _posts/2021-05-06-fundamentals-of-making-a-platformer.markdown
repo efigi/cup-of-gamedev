@@ -4,7 +4,7 @@ title:  "Fundamentals of Making a Platformer Game"
 description:  "A platformer isn't as simple as making a player and things to jump on! A lot of things are needed to make the game feel right!"
 author: remtaine
 categories: ["Game Jam"]
-image: assets/images/one-arrow-rampage-v1.png
+image: images/one-arrow-rampage-v1.png
 
 tags: games showoff gamejam postmortem platfomer grapple 2D Godot
 ---

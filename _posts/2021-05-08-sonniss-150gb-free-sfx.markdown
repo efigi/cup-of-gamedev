@@ -4,7 +4,7 @@ title:  "Free 150gb Worth of SFX from Sonniss"
 description:  "Sonniss just dropped a huge load of sfx for free! Don't miss out and check it out now!"
 author: remtaine
 categories: ["SFX", "Freebies"]
-image: assets/images/one-arrow-rampage-v1.png
+image: images/one-arrow-rampage-v1.png
 
 tags: freebies assets audio sfx
 ---
