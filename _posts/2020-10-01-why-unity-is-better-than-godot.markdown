@@ -4,7 +4,7 @@ title:  "Why Unity is Still Better Than Godot for A Solo Game Developer"
 description:  "As a solo dev, you have to wear many hats. See why Unity is a better fit than Godot for this!"
 author: remtaine
 categories: ["Game Engine"]
-image: assets/images/2020-10-17_unity_is_better_than_godot_v1.png
+image: images/2020-10-17_unity_is_better_than_godot_v1.png
 
 tags: gamedev featured game engine
 ---

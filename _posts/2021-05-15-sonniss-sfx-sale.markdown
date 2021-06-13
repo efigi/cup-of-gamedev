@@ -4,7 +4,7 @@ title:  "Sonniss Holds SFX Indie Sale for May"
 description:  "Remember Sonniss, the team who just released a huge amount of free sfx? They have even more on a huge sale this month!"
 author: remtaine
 categories: ["SFX", "Freebies"]
-image: assets/images/one-arrow-rampage-v1.png
+image: images/one-arrow-rampage-v1.png
 
 tags: freebies assets audio sfx
 ---

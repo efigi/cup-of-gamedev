@@ -4,7 +4,7 @@ title:  "Why You Should Join A Game Jam"
 description:  "A game jam is one of the best gamedev experiences you can have! Here's why you should join one!"
 author: remtaine
 categories: ["Game Jam"]
-image: assets/images/gamejam.jpg
+image: images/gamejam.jpg
 
 tags: programming game jam event reasons software featured
 ---

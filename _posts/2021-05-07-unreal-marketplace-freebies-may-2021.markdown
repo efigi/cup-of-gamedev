@@ -4,7 +4,7 @@ title:  "Unreal Marketplace Freebies: May 2021"
 description:  "It's a new month! You know what that means! That's right, more freebies from the Unreal Marketplace!"
 author: remtaine
 categories: ["Unreal", "Freebies"]
-image: assets/images/one-arrow-rampage-v1.png
+image: images/one-arrow-rampage-v1.png
 
 tags: Unreal Engine freebies month marketplace assets audio graphics 3D models music sfx
 ---
